@@ -36,7 +36,7 @@ function SendEmail(){
 
 
   // // Enviar alerta
-  // var message = 'PruebaUno!'; // Second column
+  // var message = 'PruebaUno!';
   // var subject = 'Alerta desde Google Sheets';
   // MailApp.sendEmail(emailAddress, subject, message);
 
